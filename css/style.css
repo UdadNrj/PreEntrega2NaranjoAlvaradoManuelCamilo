@@ -54,7 +54,7 @@ body {
 
 .contenedor {
     height: 700px;
-    background-image: url(img/Background\ gym.avif);
+    background-image: url(../img/background\ gym.avif);
     background-position: center;
     background-size: cover;
 }
